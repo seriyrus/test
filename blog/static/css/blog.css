@@ -1,9 +1,10 @@
 body {
-    background:#DCDCDC
-    color:black;
-    font-family:Arial, sans-serif;
+    background:#DCDCDC;
+    color: black;
+    font-family: Arial, sans-serif;
     font-size: 14px;
 }
+
 html {
     background-image: url(bg.jpg);
     background-repeat: no-repeat;
@@ -58,4 +59,8 @@ html {
    background: #00BFFF;
    width: 100%;
    height: 40px;
+}
+
+div{
+    color:#FFD700;
 }
