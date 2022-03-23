@@ -2,7 +2,7 @@ body {
     background: none;
 } 
 html {
-    background-color: #f0f0f0;
+    background-color: #919090;
 }
 #clear {
     background: none;
@@ -12,12 +12,32 @@ html {
     background: none;
 }
 #text {
-    color:#ff5733;
+    font-size: 50px;
+    margin-right: 300px;
+    color:#182033;
     font-family:'Caveat', cursive;
     background: none;
+    height: 1500px;
 
+}
+#close{
+    height: 10px;
+    background: #182033;
+    width: 1900px;
+}
+#footer{
+    height: 100px;
+    background: #182033;
+    width: 1900px;
+}
+#header {
+    margin: right 100px;
+    background: url("banner.png");
+    height: 395px;
+    width: 1900px;
 }
 
 a {
-    color: #ff5733;
+    font-size: 60px;
+    color: #182033;
 }
