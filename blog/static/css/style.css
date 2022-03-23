@@ -1,41 +1,23 @@
 body {
-    margin: bottom 10px;
-    margin-left:300px;
-    margin-right:200px;
-    color:black;
     background: none;
-    font-size: 20px;
 } 
-
 html {
-    background-image: url(bg.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background-color: #f0f0f0;
 }
-
 #clear {
     background: none;
     clear: both;
 }
-
-#container{
+#container {
     background: none;
-    background-image: url(body.png);
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 1000px;
 }
-#text{
+#text {
     color:#ff5733;
     font-family:'Caveat', cursive;
     background: none;
 
 }
-a{
+
+a {
     color: #ff5733;
 }
